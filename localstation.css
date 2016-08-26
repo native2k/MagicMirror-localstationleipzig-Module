@@ -1,0 +1,47 @@
+
+.localstation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+}
+.localstation ul li {
+  margin-bottom: .25em;
+}
+.localstation ul li img:first-child {
+  margin-left: 0;
+}
+.localstation ul li img {
+  margin: 0 .25em 0 .5em;
+}
+.localstation ul li div {
+  margin-left: .5em;
+}
+
+.localstationinvert {
+    background-color: #aaa ;
+    padding: 1px;
+    font-size: 0.9em;
+    color: #000;
+    font-weight: bold;
+    margin-left: .5em;
+    min-width: 20px;
+    display:inline-block;
+    text-align: center;
+}
+
+.localstation-s {
+    border-radius: 26px;
+}
+.localstation-BUS {
+    border-radius: 4px;
+}
+.localstation-STR {
+    border-radius: 1px;
+}
+.localstation-UUU {
+    border-radius: 1px;
+}
+
+
+/* This beautiful CSS-File has been crafted with LESS (lesscss.org) and compiled by simpLESS (wearekiss.com/simpless) */
